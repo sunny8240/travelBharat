@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#f0f0f0"/>
+  <circle cx="100" cy="70" r="15" fill="#999"/>
+  <path d="M 60 120 Q 100 140 140 120" stroke="#999" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="100" y="180" text-anchor="middle" font-family="Arial" font-size="14" fill="#999">Image Failed</text>
+</svg>
